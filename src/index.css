@@ -1,0 +1,13 @@
+
+body {
+    background-color: #131722; ;
+    color:#fff ;
+    font-family: 'Segoe UI Light';
+  }
+  .nav-link,.navbar-brand{
+    color: #fff !important ;
+  }
+
+  .secondColor{
+    color: #949cb0;
+    }

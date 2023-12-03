@@ -1,0 +1,24 @@
+$bgColor:#131722;
+$lightBgColor:#24beaf;
+$bgTransparent:rgba(36,186,239,.6);
+$fontColor:#fff;
+$borderColor:#a8a8a83d;
+$borderHight:1px;
+$SecondFontColor:#949cb0;
+
+
+
+
+body {
+  background-color: $bgColor ;
+  color: $fontColor ;
+  font-family: 'Segoe UI Light';
+}
+
+.nav-link,.navbar-brand{
+  color: #fff !important ;
+}
+.secondColor{
+color: $SecondFontColor;
+}
+

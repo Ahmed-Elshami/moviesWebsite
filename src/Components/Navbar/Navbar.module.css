@@ -1,0 +1,18 @@
+ .logOut{
+    transition: all 1s;
+}
+
+ .logOut:hover{
+    color: rgb(139, 36, 36) !important;
+    transition: all 1s;
+}
+.login:hover{
+    color: #00ADB5 !important;
+}
+.register:hover{
+    color: #00ADB5 !important;
+}
+.nameNav:hover{
+    color: #00ADB5 !important;
+    transition: all 1s;
+}
